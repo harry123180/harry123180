@@ -1,5 +1,12 @@
 ## Hi there 👋
+### 技能樹 
+* Python
+* C++
+* Web
+* AI
 
+
+###工作郵件 : harry123180@gmail.com
 <!--
 **harry123180/harry123180** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
