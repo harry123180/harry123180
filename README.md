@@ -6,7 +6,7 @@
 * AI
 我正在從事AI技能知識普及教育的工作!
 擅長發想嵌入式TinyAI與生成式AI的應用教學
-
+20260327
 ### 工作郵件 : harry123180@gmail.com
 <!--
 **harry123180/harry123180** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
